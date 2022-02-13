@@ -1,4 +1,4 @@
-## __Linux_terminal Group_27 08.02.2022 Terminal_1__
+﻿## __Linux_terminal Group_27 08.02.2022 Terminal_1__
 
 ### __1. Посмотреть где я__
 ```
@@ -143,4 +143,3 @@ mkdir 01 02 03
 ls
 mv script_1.txt script_2.json /c/users/vit/qa_vadim/001/Script_2/02/
 ```
-
