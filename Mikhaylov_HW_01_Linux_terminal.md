@@ -133,7 +133,7 @@ $ curl "http://162.55.220.72:5005/get_method?name="Vit"&age="44""
 ```
 
 ### __2. Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13__
-```git
+```posh
 #!/usr/bin/bash
 cd /c/users/vit/QA_Vadim/001
 mkdir Script_1 Script_2 Script_3
